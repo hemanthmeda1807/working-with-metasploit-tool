@@ -54,8 +54,6 @@
 ### port-1 :- PORT - 22/TCP  SERVICE - ftp  VERSION - vsftpd 2.3.4 ###
 
 > Service version vsftpd 2.3.4 is a backdoor
- ```bash
- # Start Metasploit tool
- msfconsole
+ 
 
 
